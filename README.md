@@ -18,3 +18,13 @@ Here is the list of deliverables for the analysis of the school district:
 
 How is the district summary affected?  &  How is the school summary affected?
 
+Original
+<br clear="left"/>
+![alt text](Resources/District_DataFrame_Original.png)
+
+
+Updated
+<br clear="left"/>
+![alt text](Resources/District_DataFrame_Updated.png)
+
+As we can see in the previous charts, there is no significant impact. The amount of students in grade 9th at Thomas High School is only 461 vs the total count 39,170 students.
